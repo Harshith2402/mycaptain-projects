@@ -41,25 +41,3 @@ if __name__ == '__main__' :  #defining a main function for the entries
 
         elif Choice_verification == 'no' :
              print('\n\n re-enter the entries--> ')
-             
-
-              
-          
-              
-                          
-
-
-              
-                
-
-              
-                  
-              
-              
-
-        
-        
-
-        
-
-    
